@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 /**
  * @author seri <seriputera2@gmail.com>
  */
