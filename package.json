@@ -1,0 +1,12 @@
+{
+  "name": "rn-basic-form",
+  "version": "1.0.0",
+  "description": "Basic react native form input component.",
+  "main": "index.js",
+  "keywords": [
+    "form",
+    "react-native"
+  ],
+  "author": "seri (seriputera2@gmail.com)",
+  "license": "MIT"
+}
