@@ -8,5 +8,9 @@
     "react-native"
   ],
   "author": "seri (seriputera2@gmail.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iserifith/rn-basic-form.git"
+  }
 }
